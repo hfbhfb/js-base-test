@@ -1,0 +1,12 @@
+
+node_modules
+test/
+dist/
+
+1.txt
+1.json
+1.yaml
+1.yml
+
+all-bak
+

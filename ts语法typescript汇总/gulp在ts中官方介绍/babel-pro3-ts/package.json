@@ -1,0 +1,42 @@
+{
+  "name": "mygulp1",
+  "version": "1.0.0",
+  "description": "mygulp1 test",
+  "main": "src/main.ts",
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "keywords": [
+    "mygulp1"
+  ],
+  "author": "hfbhfb",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+
+"@babel/preset-env": "^7.3.1",
+
+"@babel/preset-react": "^7.0.0",
+
+"babel-loader": "^8.0.5",
+
+    "@babel/core": "^7.20.12",
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8",
+    "tsify": "^5.0.4",
+    "typescript": "^4.9.4",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^4.0.0"
+  },
+  "resolutions": {
+    "graceful-fs": "4.2.2"
+  }
+}

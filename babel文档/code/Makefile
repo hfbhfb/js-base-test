@@ -1,0 +1,3 @@
+
+all:
+	yarn run test
